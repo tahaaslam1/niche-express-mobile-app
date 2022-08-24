@@ -1,0 +1,1 @@
+//TODO : this file is just an example.. this "widgets" folder would contain all the generic widgets that could be used across the screens, however the "local_widgets" folders are only used in the specific screen..
